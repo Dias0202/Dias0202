@@ -1,27 +1,67 @@
-# Gabriel Dias - Data Analyst & Data Scientist
+# Gabriel Dias — Data Scientist & Data Analyst
 
-👋 Hi, I’m @Dias0202  
-👀 I’m interested in bioinformatics applications, data analysis, machine learning, and developing solutions for real-world problems.  
-🌱 I’m currently enhancing my skills in Python, SQL, and data science through real-world projects and online courses.  
-💼 I am actively looking for opportunities in Data Science and Data Analysis to apply my skills in machine learning, data visualization, and statistical modeling.  
-📫 How to reach me: Send me an email at gabriel.dias09@icloud.com
+👋 Hi, I’m **Gabriel Dias** (@Dias0202)  
+📊 I develop end-to-end data solutions with a strong focus on **machine learning**, **predictive modeling**, **statistical analysis**, and **data-driven decision making**.  
+🚀 Currently strengthening my expertise in **MLOps**, **LLMs**, and **analytical engineering**, applying these skills to real-world, high-impact projects.  
+💼 Open to opportunities as **Data Scientist**, **ML Engineer**, and **Data Analyst**.  
+📫 Contact: **gabriel.dias09@icloud.com**
 
-## Skills
+---
 
-- **Programming**: Python, SQL, C, HTML, CSS, JavaScript  
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning**: Scikit-learn, Gradient Boosting  
-- **Tools & Libraries**: Jupyter, Git, VSCode, CS50 IDE  
-- **Bioinformatics**: Experience with bioinformatics workflows, data processing, and analysis
+## 🧠 Skills
 
-## Current Projects
+### **Programming & Data Engineering**
+- Python, SQL, Git, REST APIs  
+- ETL pipelines, data cleaning, automation, feature engineering  
+- FastAPI, Flask
 
-### [Electric Vehicle Population Data Analysis](https://github.com/yourusername/electric-vehicle-analysis)
-- **Objective**: Analyze the electric vehicle population in the USA using machine learning and data visualization.  
-- **Skills Used**: Data wrangling, predictive modeling, geographic analysis, data visualization  
-- **Project Highlights**: Built predictive models for electric vehicle range projections and created a geographic heatmap of EV distribution across Washington State.  
+### **Machine Learning & Modeling**
+- Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch  
+- Predictive modeling, hyperparameter tuning, cross-validation  
+- Explainability: **SHAP**, **LIME**
 
-## Connect with Me
+### **Analytics & Visualization**
+- Pandas, NumPy  
+- Matplotlib, Seaborn, Plotly  
+- Statistical analysis, KPIs, A/B testing  
+- Dashboarding & reporting
 
-- LinkedIn: [https://www.linkedin.com/in/gabrieldiasmoreira/](#)
-- GitHub: [https://github.com/Dias0202](https://github.com/Dias0202)
+### **Tools & Environments**
+- Jupyter Notebook, VSCode, GitHub, Databricks  
+- Model deployment with APIs  
+- Cloud & DevOps fundamentals
+
+---
+
+## 🚀 Highlighted Project — Predictive Modeling
+
+### 🔥 **YFV Risk Model Brazil — National Predictive Modeling Pipeline**  
+**Live Project:** https://dias0202.github.io/yfv_riskModel_brazil_beta1.0/
+
+End-to-end pipeline demonstrating strong ML and analytical engineering skills:
+
+- Large-scale **data ingestion** (environmental, demographic, spatial datasets)  
+- **ETL**, preprocessing, and feature engineering  
+- Imbalanced learning using **SMOTE**  
+- Training and evaluation with Random Forest and boosting-based models  
+- Metrics: **ROC-AUC**, **PR-AUC**, **F1**, precision-recall trade-off  
+- Model explainability using **SHAP**  
+- Spatial predictions & map generation  
+- Fully documented and reproducible workflow
+
+This project was designed to show practical strength in **predictive modeling**, **data pipelines**, and **real-world analytics**.
+
+---
+
+## 📂 Other Projects
+
+### **Electric Vehicle Population Data Analysis**  
+Analysis and predictive modeling of EV adoption using Python, SQL, and geospatial visualization.  
+**Tech stack:** Pandas, Scikit-learn, Matplotlib, Plotly.
+
+---
+
+## 🔗 Connect with Me
+
+- **LinkedIn:** https://www.linkedin.com/in/gabrieldiasmoreira/  
+- **GitHub:** https://github.com/Dias0202  
